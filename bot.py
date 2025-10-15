@@ -8,10 +8,10 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 
 # ------------------ CONFIG ------------------
-API_ID = 21161157
-API_HASH = "51c06e36f31e76a25d847a1b53b1c633"
-BOT_TOKEN = "8177784205:AAHKQ4kGlAvlwOF3XrjpCRhiRhFdSdKUgE4"
-ADMIN_USERNAME = "efab429"
+API_ID = #(ur Api_Id)
+API_HASH = #"ur api_hash"
+BOT_TOKEN = #"ur bot_token"
+ADMIN_USERNAME = #"ur username"
 USERS_DB = "users.json"
 
 AUDIO_BITRATE = "32k"
@@ -24,7 +24,7 @@ VIDEO_CRF = 28
 VIDEO_PRESET = "fast"
 VIDEO_AUDIO_BITRATE = "64k"
 
-APP_URL = "https://cuddly-laurel-efanet-85b1e249.koyeb.app/"
+APP_URL = "https://Yourapp.koyeb.app/"
 
 # ------------------ STRINGS ------------------
 STRINGS = {
