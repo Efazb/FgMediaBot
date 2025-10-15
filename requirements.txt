@@ -1,0 +1,4 @@
+pyrogram==2.2.23
+tgcrypto
+pydub
+flask
